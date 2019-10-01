@@ -178,6 +178,7 @@
     "gl-style-composite": "src/style-spec/bin/gl-style-composite"
   },
   "files": [
+    "babel.config.js",
     "build/",
     "dist/",
     "flow-typed/",
