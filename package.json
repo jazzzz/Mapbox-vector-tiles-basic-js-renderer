@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-gl",
+  "name": "mapbox-vector-tiles-basic-js-renderer",
   "description": "A WebGL interactive maps library",
   "version": "2.1.3",
   "main": "dist/mapbox-gl.js",
